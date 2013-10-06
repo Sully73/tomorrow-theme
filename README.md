@@ -1,4 +1,6 @@
 # Tomorrow Theme
+copy file to
+~/Library/Developer/Xcode/UserData/FontAndColorThemes/) and restart Xcode. to install
 
 [![Flattr this](http://api.flattr.com/button/flattr-badge-large.png)](http://flattr.com/thing/814991/chriskempsontomorrow-theme-on-GitHub)
 
